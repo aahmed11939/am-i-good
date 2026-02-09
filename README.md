@@ -1,11 +1,4 @@
-# am-i-good
-Privacy Policy of "Am I Good?" App
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Privacy Policy – Am I Good?</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<p>
 </head>
 <body>
   <h1>Privacy Policy – Am I Good?</h1>
@@ -30,8 +23,11 @@ Privacy Policy of "Am I Good?" App
     If you delete the app, all associated data is permanently removed.
   </p>
 
+ 
+  Contact: 
   <p>
-    Contact: your@email.com
+  ALLL LLC
+  <p> carrott2026@gmail.com
   </p>
 </body>
 </html>
