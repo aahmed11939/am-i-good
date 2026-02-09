@@ -1,5 +1,3 @@
-<p>
-</head>
 <body>
   <h1>Privacy Policy – Am I Good?</h1>
   <p><strong>Effective Date:</strong> February 9, 2026</p>
@@ -29,5 +27,3 @@
   ALLL LLC
   <p> carrott2026@gmail.com
   </p>
-</body>
-</html>
